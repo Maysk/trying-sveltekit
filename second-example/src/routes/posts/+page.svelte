@@ -9,5 +9,5 @@
     </ul>
 </nav>
 <h1>
-    It's home, buddy!
+    It's posts, buddy!
 </h1>
