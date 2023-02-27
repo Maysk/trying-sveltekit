@@ -11,3 +11,4 @@ vite.config.ts.timestamp-*
 prisma/migrations/*
 prisma/dev.db
 prisma/migration_lock.toml
+package-lock.json
